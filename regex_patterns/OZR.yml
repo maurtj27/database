@@ -1,5 +1,5 @@
 name: OZR
-pattern: (?<=^|[\s.-])OZR\b
+pattern: \\b(OZR)\\b
 description: ''
 tags:
 - Release Group
